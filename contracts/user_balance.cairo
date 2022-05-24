@@ -51,9 +51,9 @@ func get_balance{
     syscall_ptr : felt*,
     pedersen_ptr : HashBuiltin*,
     range_check_ptr
-}(user: felt) -> (res : felt, user : felt):
+}(user: felt) -> (res : felt):
     let (res) = balance.read(user=user)
-    return (res, user)
+    return (res)
 end
 
 @view

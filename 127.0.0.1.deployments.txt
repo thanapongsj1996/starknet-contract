@@ -1,2 +1,1 @@
-0x02325311364ddcf0732904c59154a883b36b25b3311744097e9a5a09f35c8507:artifacts/abis/user_balance.json:user_balance
-0x02d37dbc14fe650a28380dcdc192cb0762e7c40f22a14a254177f0c77174ce87:/Users/thanapongsomjai/Work/nile-test/env/lib/python3.9/site-packages/nile/artifacts/abis/Account.json:account-0
+0x013d99ef16ba94380c916e6d084e1da94bbe1838ec7fa7ae15ae91a239b0aaf4:artifacts/abis/user_balance.json:user_balance_contract
